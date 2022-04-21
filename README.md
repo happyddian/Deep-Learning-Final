@@ -1,7 +1,7 @@
 # Deep-Learning-Final
 ## Dataset:
-with_mask: image of a person wearing a mask.
-without_mask: image of a person without a mask.
+with_mask: image of a person wearing a mask.\\
+without_mask: image of a person without a mask.\\
 de-mask: image of a person whose mask is transformed to blank.
 mask: image of a mask corresponding to the original masked face.
 generated_fig: generated images from de-mask.
